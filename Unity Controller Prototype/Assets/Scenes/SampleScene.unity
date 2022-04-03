@@ -1971,7 +1971,7 @@ GameObject:
   - component: {fileID: 7528790854618678914}
   - component: {fileID: 3845539520882851573}
   m_Layer: 0
-  m_Name: Top Button
+  m_Name: Pause
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

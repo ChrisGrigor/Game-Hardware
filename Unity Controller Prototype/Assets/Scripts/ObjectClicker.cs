@@ -27,7 +27,7 @@ public class ObjectClicker : MonoBehaviour
         print(go.name);
     }
 
-    private void Moveobject()
+    private void PerformAction()
     {
         
     }
